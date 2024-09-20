@@ -19,7 +19,7 @@ on:
       param:
         description: 'parameter'
         required: false
-        default: ''
+        default: 'mediatek_filogic'
 
 env:
   TOKEN_KIDDIN9: ${{ secrets.TOKEN_KIDDIN9 }}
