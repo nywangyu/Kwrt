@@ -19,7 +19,7 @@ on:
       param:
         description: 'parameter'
         required: false
-        default: 'jdcloud_re-cp-03'
+        default: ''
 
 env:
   TOKEN_KIDDIN9: ${{ secrets.TOKEN_KIDDIN9 }}
