@@ -19,7 +19,7 @@ on:
       param:
         description: 'parameter'
         required: false
-        default: 'mediatek_filogic'
+        default: 'jdcloud_re-cp-03'
 
 env:
   TOKEN_KIDDIN9: ${{ secrets.TOKEN_KIDDIN9 }}
